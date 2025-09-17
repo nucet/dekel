@@ -810,26 +810,32 @@
     id_key: "d043"
     categories: 
     tags:
-      - "working papers"
+      - "mechanism design"
     authors:
       - "Ben-Porath, Elchanan"
       - "Dekel, Eddie"
       - "Lipman, Barton L"
     title: "Mechanism design for acquisition of/stochastic evidence"
-    year: 2023
+    journal: "Forthcoming in Theoretical Economics"
+    year: 2025
     pdf: "stochastic.pdf"
 -
     id_key: "d044"
     categories: 
     tags:
-      - "working papers"
+      - "formal methodology"
     authors:
       - "Dekel, Eddie"
       - "Quah, John K-H"
       - "Sinander, Ludvig"
     title: "Comparative statics with adjustment costs and the le Chatelier principle"
-    year: 2024
-    pdf: "adjustment-costs.pdf"
+    journal: "Econometrica"
+    vol: 93
+    num: 2
+    pages: "661-694"
+    year: 2025
+    pub: "Wiley Online Library"
+    pdf: "chatelier.pdf"
 -
     id_key: "d045"
     categories: 
@@ -889,3 +895,17 @@
     title: "Appendix to Sequential Mechanisms for Evidence Acquisition"
     year: 2023
     pdf: "evidence-acquisition-appendix.pdf"
+
+    -
+    id_key: "d049"
+    categories: 
+    tags:
+      - "working papers"
+      - "surveys and perspectives"
+    authors:
+      - "Ben-Porath, Elchanan"
+      - "Dekel, Eddie"
+      - "Lipman, Barton L"
+    title: "Evidence in Games and Mechanisms"
+    year: 2025
+    pdf: "gamesAndMechs.pdf"
