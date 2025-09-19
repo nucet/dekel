@@ -821,7 +821,7 @@
     pdf: "stochastic.pdf"
 -
     id_key: "d044"
-    tags:
+    categories:
       - "formal methodology"
     authors:
       - "Dekel, Eddie"
